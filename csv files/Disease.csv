@@ -1,0 +1,21 @@
+DiseaseID,Name,Type,Status
+1,Aplastic,Anemia,Chronic
+2,Hepatitis,Liver disease,Chronic
+3,Type A,Hemophilia,Chronic
+4,Allergic,Asthma,Acute
+5,Skin,Cancer,Chronic
+6,Sickle cell ,Anemia,Acute
+7,Type B,Hemophilia,Chronic
+8,Skin,Cancer,Chronic
+9,Hepatitis,Liver disease,Chronic
+10,Allergic,Asthma,Acute
+11,Blood,Cancer,Chronic
+12,Hemolytic,Anemia,Chronic
+13,Allergic,Asthma,Acute
+14,Hepatitis,Liver disease,Chronic
+15,Aplastic,Anemia,Chronic
+16,Skin,Cancer,Chronic
+17,Hemolytic,Anemia,Chronic
+18,Allergic,Asthma,Acute
+19,Hepatitis,Liver disease,Chronic
+20,Skin,Cancer,Chronic

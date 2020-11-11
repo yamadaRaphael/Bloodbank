@@ -1,0 +1,9 @@
+BloodTypeID,BloodGroup,Quantity
+1,A+,23
+2,A-,23
+3,B+,20
+4,B-,12
+5,AB+,24
+6,AB-,29
+7,O+,55
+8,O-,21
